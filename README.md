@@ -1,3 +1,3 @@
 # An-NLP-Based-Analysis-of-Gendered-Linguistic-Styles-in-Environmental-Writings
 
-## 
+## The research examines gender-based differences in writing style within environmental justice literature using computational linguistics methods. By applying Probabilistic Context-Free Grammar (PCFG) parsing to texts authored by men and women, we analyze syntactic complexity, sentence structure patterns, and vocabulary usage across over 2,600 parse trees. The study reveals quantifiable linguistic trends that reflect how gender influences rhetorical choices in environmental discourse, providing insights into broader patterns of gendered communication in academic and advocacy writing.
